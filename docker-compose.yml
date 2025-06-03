@@ -1,4 +1,5 @@
 include:
   - ./restaurant/docker-compose.yml
   - ./user/docker-compose.yml
+  - ./auth/docker-compose.yml
   #- ./frontend/docker-compose
