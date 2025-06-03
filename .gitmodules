@@ -1,3 +1,9 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = git@github.com:SkalierbareSysteme/restaurant.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:SkalierbareSysteme/frontend.git
+[submodule "user"]
+	path = user
+	url = git@github.com:SkalierbareSysteme/user.git
