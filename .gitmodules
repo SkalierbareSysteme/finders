@@ -7,3 +7,6 @@
 [submodule "user"]
 	path = user
 	url = git@github.com:SkalierbareSysteme/user.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:SkalierbareSysteme/auth.git
