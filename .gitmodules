@@ -10,3 +10,6 @@
 [submodule "auth"]
 	path = auth
 	url = git@github.com:SkalierbareSysteme/auth.git
+[submodule "recommendations"]
+	path = recommendations
+	url = git@github.com:SkalierbareSysteme/recommendations.git
