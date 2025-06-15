@@ -16,3 +16,9 @@ To run this repository, follow these steps:
 - Sometimes, a service could crash on the first time running `docker compose up`. If that happens, just stop all services and try again.
 - To run only some services, comment/uncomment entries in `docker-compose.yml`.
 - If not all submodules are up to date, use `git submodule update --remote --merge` to update them.
+
+
+## setup_all.sh UNIX/macos (NUR user und auth derzeit)
+    chmod +x setup_all.sh
+    ./setup_all.sh
+
