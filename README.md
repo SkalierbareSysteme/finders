@@ -17,6 +17,10 @@ To run this repository, follow these steps:
 - To run only some services, comment/uncomment entries in `docker-compose.yml`.
 - If not all submodules are up to date, use `git submodule update --remote --merge` to update them.
 
+## networks 
+     finders-network
+     internal-recommendation 
+     internal-restaurant
 
 ## setup_all.sh UNIX/macos (NUR user und auth derzeit)
     chmod +x setup_all.sh
