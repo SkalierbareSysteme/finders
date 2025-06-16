@@ -2,5 +2,5 @@ include:
   - ./restaurant/docker-compose.yml
   - ./user/docker-compose.yml
   - ./auth/docker-compose.yml
-  #- ./frontend/docker-compose.yml
-  #- ./recommendations/docker-compose.yaml
+  - ./frontend/docker-compose.yml
+  - ./recommendations/docker-compose.yaml
